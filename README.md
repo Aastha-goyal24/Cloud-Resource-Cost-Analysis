@@ -76,6 +76,8 @@ Power BI Visualization
      ↓
 Insights & Recommendations
 
+
+
 Python Analysis
 
 Python was used for data loading, exploration, statistical analysis, and visualization.
@@ -140,6 +142,7 @@ Overall project KPIs
 Power BI Dashboard
 
 Power BI was used to create an interactive dashboard for visualizing cloud resource usage and cost information.
+![Power BI Dashboard](screenshots/dashboard.png)
 
 Dashboard Includes
 Total Cloud Cost
