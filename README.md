@@ -153,8 +153,9 @@ SQL queries were used to perform the following analysis:
 ## 📊 Power BI Dashboard
 
 Power BI was used to create an interactive dashboard for visualizing cloud resource usage and cost information.
+<img width="1920" height="1080" alt="dashboard" src="https://github.com/user-attachments/assets/71e1e18d-dd9a-40fa-bd6d-8576d167849a" />
 
-![Power BI Dashboard](https://raw.githubusercontent.com/Aastha-goyal24/Cloud-Resource-Cost-Analysis/main/screenshots/dashboard.png)
+
 
 ### Dashboard Includes
 
